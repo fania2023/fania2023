@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @fania2023
-- 👀 I’m interested in ...
+Sou @fania202323
+Estou interessada nessa area de tecnologia
+Quero muito aprender, estou me desenvolvendo em crescimento e aprendizado de gestao tecnologia da informação e full stake
 - 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-fania2023/fania2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 
